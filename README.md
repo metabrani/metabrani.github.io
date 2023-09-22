@@ -10,12 +10,3 @@ Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [evositas]
   - [Rentang Jenis Acara](#event-kind-ranges)
 
 ---
-
-## List
-
-
-
-
-
-## Event Kinds
-
