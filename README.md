@@ -5,9 +5,9 @@ Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [evositas]
 
 ---
 
-- [List](#list)
-- [Event Kinds](#event-kinds)
-  - [Event Kind Ranges](#event-kind-ranges)
+- [Daftar](#daftar)
+- [Jenis Acara](#jenis-acara)
+  - [Rentang Jenis Acara](#event-kind-ranges)
 - [Message Types](#message-types)
   - [Client to Relay](#client-to-relay)
   - [Relay to Client](#relay-to-client)
