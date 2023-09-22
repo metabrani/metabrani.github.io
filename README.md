@@ -8,67 +8,14 @@ Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [evositas]
 - [Daftar](#daftar)
 - [Jenis Acara](#jenis-acara)
   - [Rentang Jenis Acara](#event-kind-ranges)
-- [Message Types](#message-types)
-  - [Client to Relay](#client-to-relay)
-  - [Relay to Client](#relay-to-client)
-- [Standardized Tags](#standardized-tags)
-- [Criteria for acceptance of NIPs](#criteria-for-acceptance-of-nips)
-- [License](#license)
 
 ---
 
 ## List
 
-- [NIP-01: Basic protocol flow description](01.md)
-- [NIP-02: Contact List and Petnames](02.md)
-- [NIP-03: OpenTimestamps Attestations for Events](03.md)
-- [NIP-04: Encrypted Direct Message](04.md)
-- [NIP-05: Mapping Nostr keys to DNS-based internet identifiers](05.md)
-- [NIP-06: Basic key derivation from mnemonic seed phrase](06.md)
-- [NIP-07: `window.nostr` capability for web browsers](07.md)
-- [NIP-08: Handling Mentions](08.md) --- **unrecommended**: deprecated in favor of [NIP-27](27.md)
-- [NIP-09: Event Deletion](09.md)
-- [NIP-10: Conventions for clients' use of `e` and `p` tags in text events](10.md)
-- [NIP-11: Relay Information Document](11.md)
-- [NIP-13: Proof of Work](13.md)
-- [NIP-14: Subject tag in text events](14.md)
-- [NIP-15: Nostr Marketplace (for resilient marketplaces)](15.md)
-- [NIP-18: Reposts](18.md)
-- [NIP-19: bech32-encoded entities](19.md)
-- [NIP-21: `nostr:` URI scheme](21.md)
-- [NIP-22: Event `created_at` Limits](22.md)
-- [NIP-23: Long-form Content](23.md)
-- [NIP-25: Reactions](25.md)
-- [NIP-26: Delegated Event Signing](26.md)
-- [NIP-27: Text Note References](27.md)
-- [NIP-28: Public Chat](28.md)
-- [NIP-30: Custom Emoji](30.md)
-- [NIP-31: Dealing with Unknown Events](31.md)
-- [NIP-32: Labeling](32.md)
-- [NIP-36: Sensitive Content](36.md)
-- [NIP-38: User Statuses](38.md)
-- [NIP-39: External Identities in Profiles](39.md)
-- [NIP-40: Expiration Timestamp](40.md)
-- [NIP-42: Authentication of clients to relays](42.md)
-- [NIP-45: Counting results](45.md)
-- [NIP-46: Nostr Connect](46.md)
-- [NIP-47: Wallet Connect](47.md)
-- [NIP-48: Proxy Tags](48.md)
-- [NIP-50: Search Capability](50.md)
-- [NIP-51: Lists](51.md)
-- [NIP-52: Calendar Events](52.md)
-- [NIP-53: Live Activities](53.md)
-- [NIP-56: Reporting](56.md)
-- [NIP-57: Lightning Zaps](57.md)
-- [NIP-58: Badges](58.md)
-- [NIP-65: Relay List Metadata](65.md)
-- [NIP-72: Moderated Communities](72.md)
-- [NIP-75: Zap Goals](75.md)
-- [NIP-78: Application-specific data](78.md)
-- [NIP-89: Recommended Application Handlers](89.md)
-- [NIP-94: File Metadata](94.md)
-- [NIP-98: HTTP Auth](98.md)
-- [NIP-99: Classified Listings](99.md)
+
+
+
 
 ## Event Kinds
 
@@ -207,19 +154,5 @@ Please update these lists when proposing NIPs introducing new event kinds.
 
 ## Mailing Lists
 
-The nostr ecosystem is getting large with many different organizations, relays
-and clients. Following the nips repo on github is becoming more difficult and
-noisy. To coordinate on protocol development outside of github, there are
-mailing lists where you can work on NIPs before submitting them here:
-
-* [w3c nostr community group][w3-nostr] - [public-nostr@w3.org][mailto-w3] - requires signup
-* [nostr-protocol google group][nostr-google-group] - [nostr-protocol@googlegroups.com][mailto-google] - no signup required
-
-[w3-nostr]: https://www.w3.org/community/nostr/
-[mailto-w3]: mailto:public-nostr@w3.org
-[nostr-google-group]: https://groups.google.com/g/nostr-protocol
-[mailto-google]: mailto:nostr-protocol@googlegroups.com
 
 ## License
-
-All NIPs are public domain.
