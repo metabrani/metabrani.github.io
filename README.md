@@ -1,6 +1,7 @@
 # MB
-METABRANI stand for **Metode Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti**.
+**MetaBrani** berdiri untuk **Metode Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti**.
 Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [Evositas](https://evositas.github.io)
+`Halaman masih dalam renovasi`
 
 ---
 
@@ -11,7 +12,7 @@ Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [Evositas]
   - [Client to Relay](#client-to-relay)
   - [Relay to Client](#relay-to-client)
 - [Standardized Tags](#standardized-tags)
-- [Criteria for acceptance of NIPs](#criteria-for-acceptance-of-nips)
+- [Halaman masih dalam renovasi](#halaman-masih-dalam-renovasi)
 - [License](#license)
 
 ---
@@ -69,7 +70,7 @@ Please update these lists when proposing NIPs introducing new event kinds.
 | `relays`          | relay list                           | --                   | [57](57.md)              |
 | `subject`         | subject                              | --                   | [14](14.md)              |
 | `summary`         | article summary                      | --                   | [23](23.md)              |
-| `thumb`           | badge thumbnail                      | dimensions in pixels | [58](58.md)              |
+| `thumb`           | badge thumbnail                    | dimensions in pixels | [58](58.md)              |
 | `title`           | article title                        | --                   | [23](23.md)              |
 | `zap`             | pubkey (hex), relay URL              | weight               | [57](57.md)              |
 
