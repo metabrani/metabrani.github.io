@@ -1,4 +1,6 @@
-# Metode Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti
+# MB
+METABRANI stand for **Metode Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti**.
+Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [Evositas](https://evositas.github.io)
 
 ---
 
