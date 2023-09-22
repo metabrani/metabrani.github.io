@@ -1,1 +1,1 @@
-Metode Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti
+# Metode Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti
