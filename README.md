@@ -1,17 +1,17 @@
 # MB
 **MetaBrani** berdiri untuk **Metode Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti**.
-Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [Evositas](https://evositas.github.io)
+Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [BejoFx](https://evositas.github.io)
 `Halaman masih dalam renovasi`
 
 ---
 
-- [List](#list)
-- [Event Kinds](#event-kinds)
-  - [Event Kind Ranges](#event-kind-ranges)
-- [Message Types](#message-types)
-  - [Client to Relay](#client-to-relay)
-  - [Relay to Client](#relay-to-client)
-- [Standardized Tags](#standardized-tags)
+- [Daftar](#daftar)
+- [Jenis Acara](#jenis-acara)
+  - [Rentang Jenis Acara](#rentang-jenis-acara)
+- [Jenis Pesan](#jenis-pesan)
+  - [Daftar Akun](#daftar-akun)
+  - [Perkiraan Harga](#perkiraan-harga)
+- [Peringatan Risiko](#peringatan-risiko)
 - [Halaman masih dalam renovasi](#halaman-masih-dalam-renovasi)
 - [License](#license)
 
@@ -19,16 +19,16 @@ Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [Evositas]
 
 ### Relay to Client
 
-| type     | description                                             | NIP         |
+| type     | description                                             | Sebaran     |
 | -------- | ------------------------------------------------------- | ----------- |
-| `EOSE`   | used to notify clients all stored events have been sent | [01](01.md) |
-| `EVENT`  | used to send events requested to clients                | [01](01.md) |
-| `NOTICE` | used to send human-readable messages to clients         | [01](01.md) |
-| `OK`     | used to notify clients if an EVENT was successful       | [01](01.md) |
-| `AUTH`   | used to send authentication challenges                  | [42](42.md) |
-| `COUNT`  | used to send requested event counts to clients          | [45](45.md) |
+| `EURUSD` | Pasangan mata uang EUR dan USD, EROPA-Amerika Serikat   | [01](01.md) |
+| `BTCUSD` | Pasangan Bitcoin dan USD, Dunia-Amerika Serikat         | [1600](01.md) |
+| `XAUUSD` | Pasangan mata uang Emas dan USD, Dunia-Amerika Serikat  | [36](01.md) |
+| `USDCHF` | Pasangan mata uang USD dan CHF, AS-Swiss                | [01](01.md) |
+| `GBPUSD` | Pasangan mata uang GPB dan USD, Inggris-AS              | [03](42.md) |
+| `USDJPY` | Pasangan mata uang USD dan JPY, AS-Jepang               | [04](45.md) |
 
-Please update these lists when proposing NIPs introducing new event kinds.
+Akan diperbarui jika ada hal yang akan diperbarui.
 
 ## Standardized Tags
 
@@ -70,7 +70,7 @@ Please update these lists when proposing NIPs introducing new event kinds.
 | `relays`          | relay list                           | --                   | [57](57.md)              |
 | `subject`         | subject                              | --                   | [14](14.md)              |
 | `summary`         | article summary                      | --                   | [23](23.md)              |
-| `thumb`           | badge thumbnail                    | dimensions in pixels | [58](58.md)              |
+| `thumb`           | badge thumbnail                      | dimensions in pixels | [58](58.md)              |
 | `title`           | article title                        | --                   | [23](23.md)              |
 | `zap`             | pubkey (hex), relay URL              | weight               | [57](57.md)              |
 
