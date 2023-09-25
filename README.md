@@ -19,26 +19,26 @@ Pedagang yang menang:
 • Terbuka terhadap pelajaran
 ---
 
-### Relay to Client
+### Pasar Pasangan Mata Uang
 
 | type     | description                                             | sebaran     |
 | -------- | ------------------------------------------------------- | ----------- |
 | `EURUSD` | Pasangan mata uang EUR dan USD, EROPA-Amerika Serikat   | [01](01.md) |
-| `BTCUSD` | Pasangan Bitcoin dan USD, Dunia-Amerika Serikat         | [1600](01.md) |
-| `XAUUSD` | Pasangan mata uang Emas dan USD, Dunia-Amerika Serikat  | [36](01.md) |
-| `USDCHF` | Pasangan mata uang USD dan CHF, AS-Swiss                | [01](01.md) |
-| `GBPUSD` | Pasangan mata uang GPB dan USD, Inggris-AS              | [03](42.md) |
+| `BTCUSD` | Pasangan Bitcoin dan USD, Dunia-Amerika Serikat         | [1600] |
+| `XAUUSD` | Pasangan mata uang Emas dan USD, Dunia-Amerika Serikat  | [36] |
+| `USDCHF` | Pasangan mata uang USD dan CHF, AS-Swiss                | [01] |
+| `GBPUSD` | Pasangan mata uang GPB dan USD, Inggris-AS              | [03] |
 | `USDJPY` | Pasangan mata uang USD dan JPY, AS-Jepang               | [04](45.md) |
 
-Akan diperbarui jika ada hal yang akan diperbarui.
+Akan diperbarui jika ada hal lain yang akan diperbarui.
 
-## Standardized Tags
+## Catatan Perdagangan
 
 | tanggal      | hari pasaran       | momentum berita                      | hasil                    |
 | ------------ | ------------------ | ------------------------------------ | ------------------------ |
-| `2023.09.25` | Senin Wage         | Hari pertama Bejofx memandu Fxbejo trading dan coding   | [01](01.md), [10](10.md) |
-| `2023.09.26` | Selasa Kliwon      | relay URL, petname                   | [01](01.md), [02](02.md) |
-| `2023.09.27` | Rabu Legi          | relay URL                            | [01](01.md)              |
+| `2023.09.25` | Senin Wage         | Hari pertama Bejofx memandu Fxbejo trading dan coding   | $3 |
+| `2023.09.26` | Selasa Kliwon      |                 | [01](01.md) |
+| `2023.09.27` | Rabu Legi          |                         | [01](01.md)              |
 | `2023.09.28` | Kamis Paing        | --                                   | [01](01.md)              |
 | `2023.09.29` | Jumat Pon          | --                                   | [31](31.md)              |
 | `2023.09.30` | Sabtu Wage         | --                                   | [52](52.md)              |
@@ -59,7 +59,7 @@ Akan diperbarui jika ada hal yang akan diperbarui.
 | `2023.10.15` | Minggu Wage        | --                   | [30](30.md)              |
 | `2023.10.16` | Senin Kliwon       | --                   | [40](40.md)              |
 | `2023.10.17` | Selasa Legi        | relay URL            | [75](75.md)              |
-| `2023.10.18` | Rabu Paing         | dimensions in pixels | [23](23.md), [58](58.md) |
+| `2023.10.18` | Rabu Paing         |  | [23](23.md), [58](58.md) |
 | `2023.10.19` | Kamis Pon          | --                   | [57](57.md)              |
 | `2023.10.20` | Jumat Wage         | --                   | [52](52.md), [99](99.md) |
 | `2023.10.21` | Sabtu Kliwon       | --                   | [58](58.md)              |
