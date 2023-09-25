@@ -1,6 +1,6 @@
 # MB
 **MetaBrani** berdiri untuk **Metode Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti**.
-Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [BejoFx](https://evositas.github.io)
+Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [BejoFx](https://evositas.github.io) dan [FxBejo](x.com/metabrani)
 `Halaman masih dalam renovasi`
 
 ---
