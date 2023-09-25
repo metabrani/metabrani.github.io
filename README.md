@@ -50,29 +50,29 @@ Akan diperbarui jika ada hal yang akan diperbarui.
 | `2023.10.06` | Jumat Kliwon       | petname              |                          |
 | `2023.10.07` | Sabtu Legi         |   marker               | [65](65.md)              |
 | `2023.10.08` | Minggu Paing       | --                   |                          |
-| `2023.10.09` | millisatoshis, stringified           | --                   | [57](57.md)              |
-| `2023.10.10` | `bolt11` invoice                     | --                   | [57](57.md)              |
-| `2023.10.11` | challenge string                     | --                   | [42](42.md)              |
-| `2023.10.12` | reason                               | --                   | [36](36.md)              |
-| `2023.10.13` | pubkey, conditions, delegation token | --                   | [26](26.md)              |
-| `2023.10.14` | invoice/badge description            | --                   | [57](57.md), [58](58.md) |
-| `2023.10.15` | shortcode, image URL                 | --                   | [30](30.md)              |
-| `2023.10.16` | unix timestamp (string)              | --                   | [40](40.md)              |
-| `2023.10.17` | event id (hex)                       | relay URL            | [75](75.md)              |
-| `2023.10.18` | image URL                            | dimensions in pixels | [23](23.md), [58](58.md) |
-| `2023.10.19` | `bech32` encoded `lnurl`             | --                   | [57](57.md)              |
-| `2023.10.20` | location string                      | --                   | [52](52.md), [99](99.md) |
-| `2023.10.21` | badge name                           | --                   | [58](58.md)              |
-| `2023.10.22` | random                               | --                   | [13](13.md)              |
-| `2023.10.23` | hash of `bolt11` invoice             | --                   | [57](57.md)              |
-| `2023.10.24` | price                                | currency, frequency  | [99](99.md)              |
-| `2023.10.25` | external ID                          | protocol             | [48](48.md)              |
-| `2023.10.26` | unix timestamp (string)              | --                   | [23](23.md)              |
-| `2023.10.27` | relay url                            | --                   | [42](42.md)              |
-| `2023.10.28` | relay list                           | --                   | [57](57.md)              |
-| `2023.10.29` | subject                              | --                   | [14](14.md)              |
-| `2023.10.30` | article summary                      | --                   | [23](23.md)              |
-| `2023.10.31` | badge thumbnail                      | dimensions in pixels | [58](58.md)              |
-| `2023.11.01` | article title                        | --                   | [23](23.md)              |
-| `2023.11.02` | pubkey (hex), relay URL              | weight               | [57](57.md)              |
+| `2023.10.09` | Senin Pon          | --                   | [57](57.md)              |
+| `2023.10.10` | Selasa Wage        | --                   | [57](57.md)              |
+| `2023.10.11` | Rabu Kliwon        | --                   | [42](42.md)              |
+| `2023.10.12` | Kamis Legi         | --                   | [36](36.md)              |
+| `2023.10.13` | Jumat Paing        | --                   | [26](26.md)              |
+| `2023.10.14` | Sabtu Pon          | --                   | [57](57.md), [58](58.md) |
+| `2023.10.15` | Minggu Wage        | --                   | [30](30.md)              |
+| `2023.10.16` | Senin Kliwon       | --                   | [40](40.md)              |
+| `2023.10.17` | Selasa Legi        | relay URL            | [75](75.md)              |
+| `2023.10.18` | Rabu Paing         | dimensions in pixels | [23](23.md), [58](58.md) |
+| `2023.10.19` | Kamis Pon          | --                   | [57](57.md)              |
+| `2023.10.20` | Jumat Wage         | --                   | [52](52.md), [99](99.md) |
+| `2023.10.21` | Sabtu Kliwon       | --                   | [58](58.md)              |
+| `2023.10.22` | Minggu Legi        | --                   | [13](13.md)              |
+| `2023.10.23` | Senin Paing        | --                   | [57](57.md)              |
+| `2023.10.24` | Selasa Pon         | currency, frequency  | [99](99.md)              |
+| `2023.10.25` | Rabu Wage          | protocol             | [48](48.md)              |
+| `2023.10.26` | Kamis Kliwon       | --                   | [23](23.md)              |
+| `2023.10.27` | Jumat Legi         | --                   | [42](42.md)              |
+| `2023.10.28` | Sabtu Paing        | --                   | [57](57.md)              |
+| `2023.10.29` | Minggu Pon         | --                   | [14](14.md)              |
+| `2023.10.30` | Senin Wage         | --                   | [23](23.md)              |
+| `2023.10.31` | Selasa Kliwon      | dimensions in pixels | [58](58.md)              |
+| `2023.11.01` | Rabu Legi          | --                   | [23](23.md)              |
+| `2023.11.02` | Kamis Paing        | weight               | [57](57.md)              |
 
