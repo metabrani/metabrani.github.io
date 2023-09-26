@@ -4,19 +4,8 @@ Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [BejoFx](h
 `Halaman masih dalam renovasi`
 
 ---
-Pedagang yang merugi:
-• Jangan melakukan pekerjaan itu
-• Mengeluh
-• Mainkan permainan saling menyalahkan
-• Perdagangan balas dendam
-• Tidak bisa mengatasi ketidaknyamanannya sendiri
+PRINSIP KEKAYAAN: Pikiran mengarah pada perasaan. Perasaan mengarah pada tindakan. Tindakan menghasilkan hasil.
 
-Pedagang yang menang:
-• Terus-menerus belajar
-• Menerima kerugian dengan lapang dada
-• Mengambil tanggung jawab
-• Selidiki penyebabnya
-• Terbuka terhadap pelajaran
 ---
 
 ### Pasar Pasangan Mata Uang
@@ -34,19 +23,19 @@ Akan diperbarui jika ada hal lain yang akan diperbarui.
 
 ## Catatan Perdagangan
 
-| tanggal      | hari pasaran       | momentum berita                      | hasil                    |
-| ------------ | ------------------ | ------------------------------------ | ------------------------ |
-| `2023.09.25` | Senin Wage         | Hari pertama Bejofx memandu Fxbejo trading dan coding   | $3 |
-| `2023.09.26` | Selasa Kliwon      |                 | [01](01.md) |
-| `2023.09.27` | Rabu Legi          |                         | [01](01.md)              |
-| `2023.09.28` | Kamis Paing        | --                                   | [01](01.md)              |
-| `2023.09.29` | Jumat Pon          | --                                   | [31](31.md)              |
-| `2023.09.30` | Sabtu Wage         | --                                   | [52](52.md)              |
-| `2023.10.01` | Minggu Kliwon      | proof                                | [39](39.md)              |
-| `2023.10.02` | Senin Legi         | --                                   | [18](18.md), [72](72.md) |
-| `2023.10.03` | Selasa Paing       | annotations                          | [32](32.md)              |
-| `2023.10.04` | Rabu Pon           | --                                   | [32](32.md)              |
-| `2023.10.05` | Kamis Wage         | --                                   | [94](94.md)              |
+| tanggal      | hari pasaran       | momentum berita                                                 | hasil                    |
+| ------------ | ------------------ | --------------------------------------------------------------- | ------------------------ |
+| `2023.09.25` | Senin Wage         | Hari pertama Bejofx memandu Fxbejo trading dan coding           | -50%                     |
+| `2023.09.26` | Selasa Kliwon      | Pelajaran yang bisa diambil dari hari Senin kemarin             | [01](01.md)              |
+| `2023.09.27` | Rabu Legi          |                                                                 | [01](01.md)              |
+| `2023.09.28` | Kamis Paing        | --                                                              | [01](01.md)              |
+| `2023.09.29` | Jumat Pon          | --                                                              | [31](31.md)              |
+| `2023.09.30` | Sabtu Wage         | --                                                              | [52](52.md)              |
+| `2023.10.01` | Minggu Kliwon      | proof                                                           | [39](39.md)              |
+| `2023.10.02` | Senin Legi         | --                                                              | [18](18.md), [72](72.md) |
+| `2023.10.03` | Selasa Paing       | annotations                                                     | [32](32.md)              |
+| `2023.10.04` | Rabu Pon           | --                                                              | [32](32.md)              |
+| `2023.10.05` | Kamis Wage         | --                                                              | [94](94.md)              |
 | `2023.10.06` | Jumat Kliwon       | petname              |                          |
 | `2023.10.07` | Sabtu Legi         |   marker               | [65](65.md)              |
 | `2023.10.08` | Minggu Paing       | --                   |                          |
@@ -75,4 +64,18 @@ Akan diperbarui jika ada hal lain yang akan diperbarui.
 | `2023.10.31` | Selasa Kliwon      | dimensions in pixels | [58](58.md)              |
 | `2023.11.01` | Rabu Legi          | --                   | [23](23.md)              |
 | `2023.11.02` | Kamis Paing        | weight               | [57](57.md)              |
+
+Pedagang yang merugi:
+• Jangan melakukan pekerjaan itu
+• Mengeluh
+• Mainkan permainan saling menyalahkan
+• Perdagangan balas dendam
+• Tidak bisa mengatasi ketidaknyamanannya sendiri
+
+Pedagang yang menang:
+• Terus-menerus belajar
+• Menerima kerugian dengan lapang dada
+• Mengambil tanggung jawab
+• Selidiki penyebabnya
+• Terbuka terhadap pelajaran
 
