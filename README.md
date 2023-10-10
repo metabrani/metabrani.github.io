@@ -1,6 +1,6 @@
 # MB
 **MetaBrani** berdiri untuk **Metode Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti**.
-Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [BejoFx](https://evositas.github.io) dan [FxBejo](https://t.me/fxbejo)
+Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [BejoFx](https://evositas.github.io) dan [TradingLucu](https://t.me/tradinglucu)
 `Halaman masih dalam renovasi`
 
 ---
@@ -26,34 +26,34 @@ Akan diperbarui jika ada hal lain yang akan diperbarui.
 | tanggal      | hari pasaran       | momentum berita                                                 | hasil                    |
 | ------------ | ------------------ | --------------------------------------------------------------- | ------------------------ |
 | `2023.09.25` | Senin Wage         | Hari pertama Bejofx memandu Fxbejo trading dan coding           | -50%                     |
-| `2023.09.26` | Selasa Kliwon      | Pelajaran yang bisa diambil dari hari Senin kemarin             | [01](01.md)              |
-| `2023.09.27` | Rabu Legi          |                                                                 | [01](01.md)              |
-| `2023.09.28` | Kamis Paing        | --                                                              | [01](01.md)              |
-| `2023.09.29` | Jumat Pon          | --                                                              | [31](31.md)              |
-| `2023.09.30` | Sabtu Wage         | --                                                              | [52](52.md)              |
-| `2023.10.01` | Minggu Kliwon      | proof                                                           | [39](39.md)              |
-| `2023.10.02` | Senin Legi         | --                                                              | [18](18.md), [72](72.md) |
-| `2023.10.03` | Selasa Paing       | annotations                                                     | [32](32.md)              |
-| `2023.10.04` | Rabu Pon           | --                                                              | [32](32.md)              |
-| `2023.10.05` | Kamis Wage         | --                                                              | [94](94.md)              |
-| `2023.10.06` | Jumat Kliwon       | petname              |                          |
-| `2023.10.07` | Sabtu Legi         |   marker               | [65](65.md)              |
+| `2023.09.26` | Selasa Kliwon      | Pelajaran yang bisa diambil dari hari Senin kemarin             |               |
+| `2023.09.27` | Rabu Legi          |                                                                 |             |
+| `2023.09.28` | Kamis Paing        | --                                                              |              |
+| `2023.09.29` | Jumat Pon          | --                                                              |             |
+| `2023.09.30` | Sabtu Wage         | --                                                              |              |
+| `2023.10.01` | Minggu Kliwon      |                                                                 |              |
+| `2023.10.02` | Senin Legi         | --                                                              |  |
+| `2023.10.03` | Selasa Paing       |                                                                 |               |
+| `2023.10.04` | Rabu Pon           | --                                                              |               |
+| `2023.10.05` | Kamis Wage         | --                                                              |               |
+| `2023.10.06` | Jumat Kliwon       |                                                                 |                          |
+| `2023.10.07` | Sabtu Legi         |                                                                 |              |
 | `2023.10.08` | Minggu Paing       | --                   |                          |
-| `2023.10.09` | Senin Pon          | --                   | [57](57.md)              |
-| `2023.10.10` | Selasa Wage        | --                   | [57](57.md)              |
-| `2023.10.11` | Rabu Kliwon        | --                   | [42](42.md)              |
-| `2023.10.12` | Kamis Legi         | --                   | [36](36.md)              |
-| `2023.10.13` | Jumat Paing        | --                   | [26](26.md)              |
-| `2023.10.14` | Sabtu Pon          | --                   | [57](57.md), [58](58.md) |
-| `2023.10.15` | Minggu Wage        | --                   | [30](30.md)              |
-| `2023.10.16` | Senin Kliwon       | --                   | [40](40.md)              |
-| `2023.10.17` | Selasa Legi        | relay URL            | [75](75.md)              |
-| `2023.10.18` | Rabu Paing         |  | [23](23.md), [58](58.md) |
-| `2023.10.19` | Kamis Pon          | --                   | [57](57.md)              |
-| `2023.10.20` | Jumat Wage         | --                   | [52](52.md), [99](99.md) |
-| `2023.10.21` | Sabtu Kliwon       | --                   | [58](58.md)              |
-| `2023.10.22` | Minggu Legi        | --                   | [13](13.md)              |
-| `2023.10.23` | Senin Paing        | --                   | [57](57.md)              |
+| `2023.10.09` | Senin Pon          | --                   |               |
+| `2023.10.10` | Selasa Wage        | Mulai coding website tradinglucu.github.io                   |               |
+| `2023.10.11` | Rabu Kliwon        | --                   |               |
+| `2023.10.12` | Kamis Legi         | --                   |               |
+| `2023.10.13` | Jumat Paing        | --                   |               |
+| `2023.10.14` | Sabtu Pon          | --                   |  |
+| `2023.10.15` | Minggu Wage        | --                   |               |
+| `2023.10.16` | Senin Kliwon       | --                   |               |
+| `2023.10.17` | Selasa Legi        |             |               |
+| `2023.10.18` | Rabu Paing         |  |  |
+| `2023.10.19` | Kamis Pon          | --                   |               |
+| `2023.10.20` | Jumat Wage         | --                   |  |
+| `2023.10.21` | Sabtu Kliwon       | --                   |               |
+| `2023.10.22` | Minggu Legi        | --                   |               |
+| `2023.10.23` | Senin Paing        | --                   |              |
 | `2023.10.24` | Selasa Pon         | currency, frequency  | [99](99.md)              |
 | `2023.10.25` | Rabu Wage          | protocol             | [48](48.md)              |
 | `2023.10.26` | Kamis Kliwon       | --                   | [23](23.md)              |
