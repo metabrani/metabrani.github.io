@@ -1,5 +1,5 @@
 # MB
-**MetaBrani** berdiri untuk **Metode Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti**.
+**MetaBrani** berdiri untuk **Misteri Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti**.
 Mereka ada untuk mendokumentasikan apa yang mungkin dilaksanakan oleh [Evositas](https://evositas.github.io) dan [TraderLucu](https://t.me/traderlucu)
 `Halaman masih dalam renovasi`
 
@@ -31,18 +31,18 @@ Akan diperbarui jika ada hal lain yang akan diperbarui.
 | `2023.09.28` | Kamis Paing        | --                                                              |              |
 | `2023.09.29` | Jumat Pon          | --                                                              |             |
 | `2023.09.30` | Sabtu Wage         | --                                                              |              |
-| `2023.10.01` | Minggu Kliwon      |                                                                 |              |
+| `2023.10.01` | Minggu Kliwon      | Menggetahui arti lucu dan cuan                                                                |              |
 | `2023.10.02` | Senin Legi         | --                                                              |  |
 | `2023.10.03` | Selasa Paing       |                                                                 |               |
-| `2023.10.04` | Rabu Pon           | --                                                              |               |
+| `2023.10.04` | Rabu Pon           | Pulang ke Malang                                                              |               |
 | `2023.10.05` | Kamis Wage         | --                                                              |               |
-| `2023.10.06` | Jumat Kliwon       |                                                                 |                          |
+| `2023.10.06` | Jumat Kliwon       | Datang ke Jombang                                                                |                          |
 | `2023.10.07` | Sabtu Legi         |                                                                 |              |
 | `2023.10.08` | Minggu Paing       | --                   |                          |
 | `2023.10.09` | Senin Pon          | --                   |               |
 | `2023.10.10` | Selasa Wage        | Mulai coding website tradinglucu.github.io                   |               |
-| `2023.10.11` | Rabu Kliwon        | --                   |               |
-| `2023.10.12` | Kamis Legi         | --                   |               |
+| `2023.10.11` | Rabu Kliwon        | Investor Investasi Rp.2.000.000 dapat 127.26 USD                   |               |
+| `2023.10.12` | Kamis Legi         | Comit ganti kata, dari kata Metode ke kata Misteri                  |               |
 | `2023.10.13` | Jumat Paing        | --                   |               |
 | `2023.10.14` | Sabtu Pon          | --                   |  |
 | `2023.10.15` | Minggu Wage        | --                   |               |
