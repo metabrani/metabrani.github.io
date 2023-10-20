@@ -6,6 +6,8 @@
 ---
 PRINSIP KEKAYAAN: Pikiran mengarah pada perasaan. Perasaan mengarah pada tindakan. Tindakan menghasilkan hasil.
 
+Peluang datang pada pikiran yang siap.
+
 ---
 
 ### Pasar Pasangan Mata Uang
