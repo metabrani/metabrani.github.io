@@ -1,6 +1,6 @@
 # MB
-**MetaBrani** ada untuk menerangkan sebagian **Misteri Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti** di pasar keuangan.
-Mereka ada untuk mendokumentasikan dan saling melengkapi apa yang mungkin dilaksanakan oleh [Evositas](https://evositas.github.io) dan [TraderLucu](https://t.me/traderlucu)
+**MetaBrani** ada untuk menerangkan sebagian dari **Misteri Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti** di pasar keuangan.
+
 `Halaman masih dalam renovasi`
 
 ---
@@ -44,26 +44,26 @@ Akan segera diperbarui jika ada hal lain yang perlu diperbarui.
 | `2023.10.11` | Rabu Kliwon        | Investor Investasi Rp.2.000.000 dapat 127.26 USD                | cuan                     |
 | `2023.10.12` | Kamis Legi         | Comit ganti kata, dari kata Metode ke kata Misteri              | cuan                     |
 | `2023.10.13` | Jumat Paing        | “Kemenangan menyukai persiapan.”                                | rugi                     |
-| `2023.10.14` | Sabtu Pon          | --                   |  |
-| `2023.10.15` | Minggu Wage        | --                   |               |
-| `2023.10.16` | Senin Kliwon       | --                   |               |
-| `2023.10.17` | Selasa Legi        |             |               |
-| `2023.10.18` | Rabu Paing         |  |  |
-| `2023.10.19` | Kamis Pon          | --                   |               |
-| `2023.10.20` | Jumat Wage         | --                   |  |
-| `2023.10.21` | Sabtu Kliwon       | --                   |               |
-| `2023.10.22` | Minggu Legi        | --                   |               |
-| `2023.10.23` | Senin Paing        | --                   |              |
-| `2023.10.24` | Selasa Pon         | --  |               |
-| `2023.10.25` | Rabu Wage          | --             |              |
-| `2023.10.26` | Kamis Kliwon       | --                   | [23](23.md)              |
-| `2023.10.27` | Jumat Legi         | --                   | [42](42.md)              |
-| `2023.10.28` | Sabtu Paing        | --                   | [57](57.md)              |
-| `2023.10.29` | Minggu Pon         | --                   | [14](14.md)              |
-| `2023.10.30` | Senin Wage         | --                   | [23](23.md)              |
-| `2023.10.31` | Selasa Kliwon      | -- |               |
-| `2023.11.01` | Rabu Legi          | --                   |               |
-| `2023.11.02` | Kamis Paing        | --               |               |
+| `2023.10.14` | Sabtu Pon          | --                                                              | libur trading            |
+| `2023.10.15` | Minggu Wage        | Ke Surabaya                                                     | libur trading            |
+| `2023.10.16` | Senin Kliwon       | --                                                              |                          |
+| `2023.10.17` | Selasa Legi        |                                                                 |                          |
+| `2023.10.18` | Rabu Paing         | Profit 7 USD                                                    | cuan                     |
+| `2023.10.19` | Kamis Pon          | Profit 10 USD                                                   | cuan                     |
+| `2023.10.20` | Jumat Wage         | WD 25 USD                                                       |                          |
+| `2023.10.21` | Sabtu Kliwon       | --                                                              |                          |
+| `2023.10.22` | Minggu Legi        | --                                                              |                          |
+| `2023.10.23` | Senin Paing        | --                                                              |                          |
+| `2023.10.24` | Selasa Pon         | --                                                              |                          |
+| `2023.10.25` | Rabu Wage          | --                                                              |                          |
+| `2023.10.26` | Kamis Kliwon       | --                                                              | [23](23.md)              |
+| `2023.10.27` | Jumat Legi         | --                                                              | [42](42.md)              |
+| `2023.10.28` | Sabtu Paing        | --                                                              | [57](57.md)              |
+| `2023.10.29` | Minggu Pon         | --                                                              | [14](14.md)              |
+| `2023.10.30` | Senin Wage         | --                                                              | [23](23.md)              |
+| `2023.10.31` | Selasa Kliwon      | --                                                              |                          |
+| `2023.11.01` | Rabu Legi          | --                                                              |                          |
+| `2023.11.02` | Kamis Paing        | --                                                              |                          |
 
 Pedagang yang merugi:
 • Jangan melakukan pekerjaan itu
