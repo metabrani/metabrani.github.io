@@ -67,17 +67,23 @@ Akan segera diperbarui jika ada hal lain yang perlu diperbarui.
 | `2023.11.01` | Rabu Legi          | --                                                              |                          |
 | `2023.11.02` | Kamis Paing        | --                                                              |                          |
 
+---
 Pedagang yang merugi:
-• Jangan melakukan pekerjaan itu
-• Mengeluh
-• Mainkan permainan saling menyalahkan
-• Perdagangan balas dendam
-• Tidak bisa mengatasi ketidaknyamanannya sendiri
+Jangan melakukan pekerjaan itu
+Mengeluh
+Mainkan permainan saling menyalahkan
+Perdagangan balas dendam
+Tidak bisa mengatasi ketidaknyamanannya sendiri
 
 Pedagang yang menang:
-• Terus-menerus belajar
-• Menerima kerugian dengan lapang dada
-• Mengambil tanggung jawab
-• Selidiki penyebabnya
-• Terbuka terhadap pelajaran
+Terus-menerus belajar
+Menerima kerugian dengan lapang dada
+Mengambil tanggung jawab
+Selidiki penyebabnya
+Terbuka terhadap pelajaran
+
+---
+
+
+
 
