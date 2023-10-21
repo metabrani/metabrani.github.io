@@ -6,7 +6,7 @@
 ---
 PRINSIP KEKAYAAN: Pikiran mengarah pada perasaan. Perasaan mengarah pada tindakan. Tindakan menghasilkan hasil.
 
-Peluang datang pada pikiran yang siap.
+Peluang datang pada pikiran yang siap. Keberhasilan menyukai persiapan. Untuk melihat tabel cuan bisa lihat di [Evositas](https://evositas.github.io)
 
 ---
 
