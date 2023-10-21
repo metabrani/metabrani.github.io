@@ -52,8 +52,8 @@ Akan segera diperbarui jika ada hal lain yang perlu diperbarui.
 | `2023.10.17` | Selasa Legi        |                                                                 |                          |
 | `2023.10.18` | Rabu Paing         | Profit 7 USD                                                    | cuan                     |
 | `2023.10.19` | Kamis Pon          | Profit 10 USD                                                   | cuan                     |
-| `2023.10.20` | Jumat Wage         | WD 25 USD                                                       |                          |
-| `2023.10.21` | Sabtu Kliwon       | --                                                              |                          |
+| `2023.10.20` | Jumat Wage         | WD 25 USD. Profit 4 USD                                         | cuan                     |
+| `2023.10.21` | Sabtu Kliwon       | Market tutup, coding [metabrani](https://metabrani.github.io)   |                          |
 | `2023.10.22` | Minggu Legi        | --                                                              |                          |
 | `2023.10.23` | Senin Paing        | --                                                              |                          |
 | `2023.10.24` | Selasa Pon         | --                                                              |                          |
