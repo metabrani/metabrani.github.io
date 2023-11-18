@@ -66,9 +66,9 @@ Akan segera diperbarui jika ada hal lain yang perlu diperbarui.
 | `2023.10.31` | Selasa Kliwon      | --                                                              |                          |
 | `2023.11.01` | Rabu Legi          | --                                                              |                          |
 | `2023.11.02` | Kamis Paing        | --                                                              |                          |
-| `2023.11.18` | Sabtu Pon          | Di wifi id Surabaya jl. Kapuas / Jl. Diponegoro                 |                          |
-| `2023.11.19` | Rabu Legi          | --                                                              |                          |
-| `2023.11.20` | Kamis Paing        | --                                                              |                          |
+| `2023.11.18` | Sabtu Pon          | Di wifi.id corner di Surabaya jl. Kapuas / Jl. Diponegoro       |                          |
+| `2023.11.19` | Minggu Wage        | --                                                              |                          |
+| `2023.11.20` | Senin Kliwon       | --                                                              |                          |
 
 
 ---
