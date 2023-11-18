@@ -1,4 +1,4 @@
-# MB
+# MetaBrani
 **MetaBrani** ada untuk menerangkan sebagian dari **Misteri Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti** di pasar keuangan.
 
 `Halaman masih dalam renovasi`
@@ -66,20 +66,34 @@ Akan segera diperbarui jika ada hal lain yang perlu diperbarui.
 | `2023.10.31` | Selasa Kliwon      | --                                                              |                          |
 | `2023.11.01` | Rabu Legi          | --                                                              |                          |
 | `2023.11.02` | Kamis Paing        | --                                                              |                          |
+| `2023.11.18` | Sabtu Pon          | Di wifi id Surabaya jl. Kapuas / Jl. Diponegoro                 |                          |
+| `2023.11.19` | Rabu Legi          | --                                                              |                          |
+| `2023.11.20` | Kamis Paing        | --                                                              |                          |
+
 
 ---
-Pedagang yang merugi:
+## Pedagang yang merugi:
+
 Jangan melakukan pekerjaan itu
+
 Mengeluh
+
 Mainkan permainan saling menyalahkan
+
 Perdagangan balas dendam
+
 Tidak bisa mengatasi ketidaknyamanannya sendiri
 
-Pedagang yang menang:
+## Pedagang yang menang:
+
 Terus-menerus belajar
+
 Menerima kerugian dengan lapang dada
+
 Mengambil tanggung jawab
+
 Selidiki penyebabnya
+
 Terbuka terhadap pelajaran
 
 ---
