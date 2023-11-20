@@ -1,5 +1,5 @@
 # MetaBrani
-**MetaBrani** ada untuk menerangkan sebagian dari **Misteri Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti** di pasar keuangan.
+**MetaBrani** disusun untuk menerangkan sebagian dari **Misteri Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti** di pasar uang.
 
 `Halaman masih dalam renovasi`
 
@@ -58,11 +58,11 @@ Akan segera diperbarui jika ada hal lain yang perlu diperbarui.
 | `2023.10.23` | Senin Paing        | --                                                              |                          |
 | `2023.10.24` | Selasa Pon         | --                                                              |                          |
 | `2023.10.25` | Rabu Wage          | --                                                              |                          |
-| `2023.10.26` | Kamis Kliwon       | --                                                              | [23](23.md)              |
-| `2023.10.27` | Jumat Legi         | --                                                              | [42](42.md)              |
-| `2023.10.28` | Sabtu Paing        | --                                                              | [57](57.md)              |
-| `2023.10.29` | Minggu Pon         | --                                                              | [14](14.md)              |
-| `2023.10.30` | Senin Wage         | --                                                              | [23](23.md)              |
+| `2023.10.26` | Kamis Kliwon       | --                                                              |                          |
+| `2023.10.27` | Jumat Legi         | --                                                              |                          |
+| `2023.10.28` | Sabtu Paing        | --                                                              |                          |
+| `2023.10.29` | Minggu Pon         | --                                                              |                          |
+| `2023.10.30` | Senin Wage         | --                                                              |                          |
 | `2023.10.31` | Selasa Kliwon      | --                                                              |                          |
 | `2023.11.01` | Rabu Legi          | --                                                              |                          |
 | `2023.11.02` | Kamis Paing        | --                                                              |                          |
