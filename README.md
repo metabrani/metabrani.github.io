@@ -14,12 +14,12 @@ Peluang datang pada pikiran yang siap. Keberhasilan menyukai persiapan. Untuk me
 
 | type     | description                                             | sebaran     |
 | -------- | ------------------------------------------------------- | ----------- |
-| `EURUSD` | Pasangan mata uang EUR dan USD, EROPA-Amerika Serikat   | [1](https://id.tradingview.com/chart/?symbol=FX%3AEURUSD) |
-| `BTCUSD` | Pasangan Bitcoin dan USD, Dunia-Amerika Serikat         | [1600](https://id.tradingview.com/chart/?symbol=BITSTAMP%3ABTCUSD) |
-| `XAUUSD` | Pasangan mata uang Emas dan USD, Dunia-Amerika Serikat  | [36] |
-| `USDCHF` | Pasangan mata uang USD dan CHF, AS-Swiss                | [01] |
-| `GBPUSD` | Pasangan mata uang GPB dan USD, Inggris-AS              | [03] |
-| `USDJPY` | Pasangan mata uang USD dan JPY, AS-Jepang               | [4](https://id.tradingview.com/chart/?symbol=FX%3AUSDJPY) |
+| `EURUSD` | Spread di tickmill yang paling tipis, bisa 0 pips dengan komisi $0.04 ketika memakai volume 0.01   | [1](https://id.tradingview.com/chart/?symbol=FX%3AEURUSD) |
+| `BTCUSD` | Berdaganglah dengan menggunakan stop loss dan take profit, tanpa itu perdagangan sangat berbahaya        | [1600](https://id.tradingview.com/chart/?symbol=BITSTAMP%3ABTCUSD) |
+| `XAUUSD` | Pelajari rasio emas, fibonacci dan fraktal  | [36] |
+| `USDCHF` | Pasangan mata uang yang aman, sebab Swiss dikenal sebagai negara netral                | [01] |
+| `GBPUSD` | Pasangan mata uang berfluktuatif karena Amerika menggunakan bahasa Inggris              | [03] |
+| `USDJPY` | Pasangan mata uang yang merupakan ukuran negara maju di Asia               | [4](https://id.tradingview.com/chart/?symbol=FX%3AUSDJPY) |
 
 Akan segera diperbarui jika ada hal lain yang perlu diperbarui.
 
@@ -68,7 +68,13 @@ Akan segera diperbarui jika ada hal lain yang perlu diperbarui.
 | `2023.11.02` | Kamis Paing        | --                                                              |                          |
 | `2023.11.18` | Sabtu Pon          | Di wifi.id corner di Surabaya jl. Kapuas / Jl. Diponegoro       |                          |
 | `2023.11.19` | Minggu Wage        | --                                                              |                          |
-| `2023.11.20` | Senin Kliwon       | --                                                              |                          |
+| `2023.11.20` | Senin Kliwon       | Saldo di BCA 44000xxx50 Rp.178,345.45                           |                          |
+| `2023.11.21` | Selasa Legi        | --                                                              |                          |
+| `2023.11.02` | Rabu Paing         | --                                                              |                          |
+| `2023.11.18` | Kamis Pon          | --                                                              |                          |
+| `2023.11.19` | Jumat Wage         | --                                                              |                          |
+| `2023.11.20` | Sabtu Kliwon       | --                                                              |                          |
+
 
 
 ---
