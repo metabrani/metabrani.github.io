@@ -1,15 +1,2 @@
-# B
-## B
-### B
-#### B
-##### B
-###### B
-B
-## B
-### B
-# B
-## B
-B
-B
-# B
-# B
+# MetaBrani # Misteri ekonomi tinggi atas Bawah rendah awal nilai inti
+
