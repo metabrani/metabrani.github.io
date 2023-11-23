@@ -1,2 +1,2 @@
-# MetaBrani # Misteri ekonomi tinggi atas Bawah rendah awal nilai inti
+# Misteri ekonomi tinggi atas Bawah rendah awal nilai inti
 
