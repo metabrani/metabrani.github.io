@@ -1,2 +1,5 @@
 baseURL: "https://metabrani.github.io"
 title: MetaBrani
+source: DIR
+destination: DIR
+timezone: TIMEZONE
