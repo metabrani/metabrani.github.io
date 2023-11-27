@@ -1,8 +1,8 @@
 # Misteri ekonomi tinggi atas Bawah rendah awal nilai inti
 
-## Tabel Modal Perdagangan
+## Tabel Laba Rugi Modal Perdagangan 10% /Hari
 
-Tabel di bawah ini menerangkan modal perdagangan dengan rencana penskalaan
+Tabel yang menerangkan pertumbuhan modal perdagangan dengan rencana penskalaan
 
 | Level | Saldo     | Volume | Laba / Rugi | Equitas Laba | Equitas Rugi | Piper |
 | ----- | --------- | ------ | ----------- | ------------ | ------------ | ----- |
@@ -25,3 +25,10 @@ Tabel di bawah ini menerangkan modal perdagangan dengan rencana penskalaan
 | 17    | $45.89    | 0.03   | $4.58       | $50.47       | $41.31       | 153   |
 | 18    | $50.47    | 0.04   | $5.04       | $55.51       | $45.43       | 126   |
 | 19    | $55.51    | 0.04   | $5.55       | $61.06       | $49.96       | 139   |
+| 20    | $61.06    | 0.05   | $6.10       | $67.16       | $54.96       | 122   |
+| 21    | $67.16    | 0.05   | $6.71       | $73.87       | $60.45       | 135   |
+| 22    | $73.87    | 0.06   | $7.38       | $81.25       | $66.49       | 123   |
+| 23    | $81.25    | 0.07   | $8.12       | $89.37       | $73.13       | 116   |
+| 24    | $89.37    | 0.08   | $8.93       | $98.30       | $80.44       | 112   |
+| 25    | $98.30    | 0.09   | $9.83       | $108.13      | $88.47       | 109   |
+| 26    | $108.13   | 0.09   | $10.81      | $118.94      | $97.32       | 121   |
