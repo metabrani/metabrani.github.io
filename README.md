@@ -4,11 +4,10 @@
 
 Tabel di bawah ini menerangkan modal perdagangan dengan penskalaan
 
-| Tingkat | Saldo          |
-| ------- | ------------------ |
-| 1  | $10.00 |
-| 2   | $11.00 |
-| 3 | $12.10 |
-
+| Tingkat | Saldo         | Volume |
+| ------- | ------------- | ------ |
+| 1       | $10.00        | 0.01   |
+| 2       | $11.00        | 0.01   |
+| 3       | $12.10        | 0.01   |
 
 
