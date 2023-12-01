@@ -36,6 +36,13 @@ Tabel yang menerangkan pertumbuhan modal perdagangan dengan rencana penskalaan
 | 28    | $130.83   | 0.10   | $13.08      | $143.91      | $117.75      | 131   |
 | 29    | $143.91   | 0.11   | $14.39      | $158.30      | $129.52      | 131   |
 | 30    | $158.30   | 0.12   | $15.83      | $174.13      | $142.47      | 132   |
+| 31    | $174.13   | 0.13   | $17.41      | $191.54      | $156.72      | 134   |
+| 32    | $191.54   | 0.14   | $19.15      | $210.69      | $172.39      | 137   |
+| 33    | $210.69   | 0.15   | $21.06      | $231.75      | $189.63      | 141   |
+| 34    | $231.75   | 0.16   | $23.17      | $254.92      | $208.58      | 145   |
+| 35    | $254.92   | 0.17   | $25.49      | $280.41      | $229.43      | 150   |
+| 36    | $280.41   | 0.18   | $28.04      | $308.45      | $252.37      | 156   |
+| 37    | $308.45   | 0.19   | $30.84      | $339.29      | $277.61      | 163   |
 
 ### Pentingnya Disiplin menggunakan Stop Loss dengan rencana yang sudah di skalakan dalam tabel, menghindari Stop Out dan mundur jauh ke Level yang lebih kecil bahkan sampai ke Ekuitas 0.
 
