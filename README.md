@@ -47,6 +47,31 @@ Tabel yang menerangkan pertumbuhan modal perdagangan dengan rencana penskalaan
 | 39    | $373.21   | 0.21   | $37.32      | $410.53      | $335.89      | 178   |
 | 40    | $410.53   | 0.22   | $41.05      | $451.58      | $369.48      | 187   |
 
+
+| Hari | Modal Awal | Keuntungan Harian | Modal Akhir       |
+|------|------------|-------------------|-------------------|
+| 1    | $10.00     | $1.00             | $11.00            |
+| 2    | $11.00     | $1.10             | $12.10            |
+| 3    | $12.10     | $1.21             | $13.31            |
+| 4    | $13.31     | $1.33             | $14.64            |
+| 5    | $14.64     | $1.46             | $16.10            |
+| 6    | $16.10     | $1.61             | $17.71            |
+| 7    | $17.71     | $1.77             | $19.48            |
+| 8    | $19.48     | $1.95             | $21.43            |
+| 9    | $21.43     | $2.14             | $23.57            |
+| 10   | $23.57     | $2.36             | $26.93            |
+| 11   | $26.93     | $2.69             | $29.62            |
+| 12   | $29.62     | $2.96             | $32.58            |
+| 13   | $32.58     | $3.26             | $35.84            |
+| 14   | $35.84     | $3.58             | $39.42            |
+| 15   | $39.42     | $3.94             | $43.36            |
+| 16   | $43.36     | $4.34             | $47.70            |
+| 17   | $47.70     | $4.77             | $52.47            |
+| 18   | $52.47     | $5.25             | $57.72            |
+| 19   | $57.72     | $5.77             | $63.49            |
+| 20   | $63.49     | $6.35             | $69.84            |
+
+
 ### Pentingnya Disiplin menggunakan Stop Loss dengan rencana yang sudah di skalakan dalam tabel, menghindari Stop Out dan mundur jauh ke Level yang lebih kecil bahkan sampai ke Ekuitas 0.
 
 `halaman masih dalam pengembangan dan perbaikan`
