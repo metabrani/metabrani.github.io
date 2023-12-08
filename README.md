@@ -1,4 +1,3 @@
-[MetaBrani](metabrani.github.io)
 # Misteri ekonomi tinggi atas Bawah rendah awal nilai inti
 
 ## Tabel Laba Rugi Modal Perdagangan 10% /Hari
@@ -224,8 +223,9 @@ Tabel yang menerangkan pertumbuhan modal perdagangan dengan rencana penskalaan
 ### Pentingnya Disiplin menggunakan Stop Loss dengan rencana yang sudah di skalakan dalam tabel, menghindari Stop Out dan mundur jauh ke Level yang lebih kecil bahkan sampai ke Ekuitas 0.
 
 `halaman masih dalam pengembangan dan perbaikan`
-Teori penskalaan bisa kunjungi [GetBos](https://getbos.github.io)
+Teori penskalaan bisa kunjungi [GetBos](https://getbos.github.io) [MetaBrani](https://metabrani.github.io)
 <div align="center">
 <a href="https://twitter.com/intent/follow?screen_name=getbos">
         <img src="https://img.shields.io/twitter/follow/getbos?style=social&logo=twitter"
-            alt="follow on Twitter">
+            alt="follow on Twitter"> 
+        
