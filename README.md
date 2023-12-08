@@ -1,3 +1,4 @@
+[MetaBrani](metabrani.github.io)
 # Misteri ekonomi tinggi atas Bawah rendah awal nilai inti
 
 ## Tabel Laba Rugi Modal Perdagangan 10% /Hari
